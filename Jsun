@@ -2,31 +2,68 @@
   universes:
           [
             {
-              "uni-a":"ngc0167"
+              "uni-a":"ngc0167",
+                  "properties":{
+                    "a":"b",
+                    "c":"d",
+                    "e":"f"
+                  }
             },
             {
-              "cowboyhat":"ngc7776"
+              "cowboyhat":"ngc7776",
+                  "properties":{
+                    "a2":"b2",
+                    "c2":"d2",
+                    "e2":"f2"
+                  }
             },
             {
-              "uni-b":"ngc3419"
+              "uni-b":"ngc3419",
+                  "properties":{
+                    "a3":"b3",
+                    "c3":"d3",
+                    "e3":"f3"
+                  }
             },
             {
-              "candyapple":"ngc0666"
+              "candyapple":"ngc0666",
+                  "properties":{
+                    "a4":"b4",
+                    "c4":"d4",
+                    "e4":"f4"
+                  }
             },
             {
-              "laniakea":"ngc0001"
+              "laniakea":"ngc0001",
+                  "properties":{
+                    "a5":"b5",
+                    "c5":"d5",
+                    "e5":"f5"
+                  }
             }
           ],
   galaxies:
           [
             {
-              "andomeda":"ra 0h 42m 44s | dec +41° 16′ 9″"
+              "andomeda":"ra 0h 42m 44s | dec +41° 16′ 9″",
+                  "properties":{
+                    "a1":"b1",
+                    "c1":"d1"
+                  }
             },
             {
-              "milkyway":"q"
+              "milkyway":"q",
+                  "properties":{
+                    "a2":"b2",
+                    "c2":"d2"
+                  }
             },
             {
-              "orion":"ra 6h 32m 10s | dec +04° 16′ 3″"
+              "orion":"ra 6h 32m 10s | dec +04° 16′ 3″",
+                  "properties":{
+                    "a3":"b3",
+                    "c3":"d3"
+                  }
             }
           ]
 
