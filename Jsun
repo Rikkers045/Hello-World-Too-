@@ -1,5 +1,5 @@
 {
-  universes:
+  "universes":
           [
             {
               "uni-a":"ngc0167",
@@ -10,9 +10,10 @@
                   }
             },
             {
-              "cowboyhat":"ngc7776",
+              "coordinates":"ngc7776",
+
                   "properties":{
-                    "a2":"b2",
+                    "name":"andomeda",
                     "c2":"d2",
                     "e2":"f2"
                   }
@@ -42,7 +43,7 @@
                   }
             }
           ],
-  galaxies:
+  "galaxies":
           [
             {
               "andomeda":"ra 0h 42m 44s | dec +41° 16′ 9″",
