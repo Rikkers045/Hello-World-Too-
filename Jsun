@@ -1,0 +1,33 @@
+{
+  universes:
+          [
+            {
+              "uni-a":"ngc0167"
+            },
+            {
+              "cowboyhat":"ngc7776"
+            },
+            {
+              "uni-b":"ngc3419"
+            },
+            {
+              "candyapple":"ngc0666"
+            },
+            {
+              "laniakea":"ngc0001"
+            }
+          ],
+  galaxies:
+          [
+            {
+              "andomeda":"ra 0h 42m 44s | dec +41° 16′ 9″"
+            },
+            {
+              "milkyway":"q"
+            },
+            {
+              "orion":"ra 6h 32m 10s | dec +04° 16′ 3″"
+            }
+          ]
+
+}
